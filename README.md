@@ -1,10 +1,8 @@
 # Spatial Python Bootcamp 2023
 
-### Materials for the Spatial Python portion of the Cart Spatial Data Science Bootcamp in September 2023
+**I taught *Intro to Spatial Python* at the Carto Spatial Data Science Bootcamp 2023 in Toronto**
 
 ![ConnectingFiles](bootcamppage.png)
-
-![ConnectingFiles](IMG_1174.jpeg)
 
 ![ConnectingFiles](FullSizeRender.jpeg)
 
